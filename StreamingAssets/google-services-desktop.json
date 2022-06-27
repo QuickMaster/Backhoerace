@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "493415853904",
+    "firebase_url": "https://backhoe-kart-default-rtdb.firebaseio.com",
+    "project_id": "backhoe-kart",
+    "storage_bucket": "backhoe-kart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493415853904:android:d1e8bda789a6573a2c4655",
+        "android_client_info": {
+          "package_name": "com.Artreiz.BackhoeKart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493415853904-4djjhb9fni8clfhi1lpdvo5psmbm2g6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpEsGpXLJVY3CIX6oor6B88i28sd-vp3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493415853904-4djjhb9fni8clfhi1lpdvo5psmbm2g6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
